@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://istinye.edu.tr">
-    <img src="docs/assets/istinye-university-logo.webp" alt="İstinye Üniversitesi" width="180"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%C4%B0stinye_%C3%9Cniversitesi_logo.svg/1280px-%C4%B0stinye_%C3%9Cniversitesi_logo.svg.png" alt="İstinye Üniversitesi" width="180"/>
   </a>
 
   # WebAssembly Sandbox Escape RCE (CVE-2025-7733) Red vs Blue Simulation
