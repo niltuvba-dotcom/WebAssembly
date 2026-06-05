@@ -23,8 +23,8 @@
 ### Öğrenci Bilgisi
 | | |
 | :--- | :--- |
-| **Ad Soyad** | Nisa |
-| **Öğrenci No** | 2520****1019 |
+| **Ad Soyad** | Tuğba Soğanlı |
+| **Öğrenci No** | 2520****1023 |
 
 ### Ders Bilgileri
 | | |
