@@ -1,0 +1,10 @@
+{
+  "cve_id": "CVE-2025-7733",
+  "title": "WebAssembly Runtime Integer Overflow Sandbox Escape",
+  "cvss_score": 9.8,
+  "severity": "CRITICAL",
+  "attack_vector": "Network",
+  "target_component": "V8 Engine (TurboFan)",
+  "vulnerability_type": ["Integer Overflow", "Out-of-Bounds Write"],
+  "impact": "Zero-Click Remote Code Execution"
+}
